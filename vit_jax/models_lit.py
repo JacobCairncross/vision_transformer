@@ -28,8 +28,8 @@ from vit_jax import checkpoint
 from vit_jax import models_vit
 from vit_jax import preprocess
 
-from flaxformer.architectures.bert import bert
-from flaxformer.architectures.bert import configs
+# from flaxformer.architectures.bert import bert
+# from flaxformer.architectures.bert import configs
 
 
 BASE_PATH = 'gs://vit_models/lit'
